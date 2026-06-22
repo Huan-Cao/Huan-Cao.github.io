@@ -23,7 +23,7 @@ repository               : "Huan-Cao/huan-cao.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "huancao.png"
   name             : "Huan Cao"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor, Quantum information and Quantum optics, experimental physicist"

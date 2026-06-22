@@ -2,7 +2,7 @@
 title: "Experimental aspects of indefinite causal order in quantum mechanics"
 collection: publications
 category: manuscripts
-permalink: /publication/2026NatRevPhys-Experimental
+permalink: /publication/2024NatRevPhys-Experimental
 date: 2024-07-19
 venue: 'Nature Reviews Physics'
 paperurl: 'https://doi.org/10.1038/s42254-024-00739-8'

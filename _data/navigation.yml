@@ -17,8 +17,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
   
-  - title: "Group"
-    url: /group/
+  - title: "Tags"
+    url: /tags/
     
   - title: "Portfolio"
     url: /portfolio/

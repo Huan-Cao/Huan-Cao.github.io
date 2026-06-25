@@ -7,7 +7,7 @@ and single material qubits or quantum emitters, including single atoms and quant
 cavities and photonic structures. These light–matter interfaces can 
 enable deterministic quantum gates, quantum memories, photon–matter entanglement, and scalable hybrid architectures for 
 distributed quantum information processing. <br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: research
 ---
 
 

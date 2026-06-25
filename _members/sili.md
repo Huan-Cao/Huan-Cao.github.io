@@ -1,7 +1,6 @@
 ---
 title: "Si Li"
-position: "Ph.D"
+position: "Ph.D. 2023-2026 (Postdoc at XYZ University)"
 type: "Alumni"
 ---
 
-Experimentalist in quantum information, focusing on multi-photon entanglement in photonic systems, discrete variable encoding, and micro-nano integrated quantum optics.

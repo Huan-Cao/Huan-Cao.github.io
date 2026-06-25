@@ -1,4 +1,3 @@
-<!--
 ---
 layout: archive
 title: "Group"
@@ -9,9 +8,9 @@ redirect_from:
 ---
 
 <div style="height: 150px;">
-<img src="/images/huancao.png" alt="Huan Cao" class="biopic">
-<h2>Huan Cao</h2>
-Tenure-Track Associate Professor
+<img src="/images/500x300.png" alt="Rachel Knevel" class="biopic">
+<h2>Rachel Knevel</h2>
+Main PI and head of the Knevel Lab
 <br>
 <a href="https://www.linkedin.com/in/rachel-knevel-60b760b/"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
 <a href="https://github.com/rkmnl"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a>
@@ -19,29 +18,28 @@ Tenure-Track Associate Professor
 <a href="https://orcid.org/0000-0002-7494-3023"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
 </div>
 <hr>
--->
 
----
-layout: page
-title: Tags
-permalink: /tags/
----
+<div style="height: 150px;">
+<img src="/images/500x300.jpg" alt="Tjardo Maarseveen" class="biopic">
+<h2>Tjardo Maarseveen</h2>
+PhD Candidate, bioinformatician, expert in the field of Electronic Health Records and free-text analysis
+<br>
+<a href="https://www.linkedin.com/in/tjardo-maarseveen/"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+<a href="https://github.com/levrex"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Maarseveen+T%5BAuthor%5D&sort=date"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a>
+<a href="https://orcid.org/0000-0003-1701-1040"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
+</div>
+<hr>
 
-{% include group-by-array.html collection=site.posts field='tags' %}
 
-<ul>
-  {% for tag in group_names %}
-    {% assign posts = group_items[forloop.index0] %}
+<h3>Alumni</h3>
 
-    <li>
-      <h2>{{ tag }}</h2>
-      <ul>
-        {% for post in posts %}
-        <li>
-          <a href='{{ site.baseurl }}{{ post.url }}'>{{ post.title }}</a>
-        </li>
-        {% endfor %}
-      </ul>
-    </li>
-  {% endfor %}
-</ul>
+<div style="height: 150px;">
+<img src="/images/500x300.png" alt="Nick Bos" class="biopic">
+<h2>Nick Bos</h2>
+Student, bioinformatician, working on a web application to assign and visualize JIPs
+<br>
+<a href="https://www.linkedin.com/in/nick-bos-189b8798/"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+<a href="https://github.com/4E-69-63-6B-20-42-6F-73/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a>
+</div>
+<hr>

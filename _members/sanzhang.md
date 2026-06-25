@@ -1,7 +1,7 @@
 ---
 title: "San Zhang"
 position: "Ph.D. Student"
-type: "Students"
+type: "Graduate Students"
 avatar: "/images/500x300.png"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Huan Cao"
-position: "Associate Professor / Principal Investigator"
+position: "Tenure-Track Associate Professor"
 type: "Faculty"
 avatar: "/images/huancao.png"
 ---

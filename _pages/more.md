@@ -1,6 +1,6 @@
 ---
 permalink: /more/
-title: "Haha"
+title: "Further Information"
 layout: archive
 author_profile: true
 ---

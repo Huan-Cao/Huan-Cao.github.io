@@ -1,45 +1,52 @@
 ---
 layout: archive
-title: "Group"
+title: "Group Members"
 permalink: /group/
 author_profile: true
-redirect_from: 
-  - /group
 ---
 
-<div style="height: 100px;">
-<img src="/images/500x300.png" alt="Rachel Knevel" class="biopic">
-<h2>Rachel Knevel</h2>
-Main PI and head of the Knevel Lab
-<br>
-<a href="https://www.linkedin.com/in/rachel-knevel-60b760b/"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-<a href="https://github.com/rkmnl"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a>
-<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Knevel+R+&sort=pubdate"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a>
-<a href="https://orcid.org/0000-0002-7494-3023"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
+{% include base_path %}
+
+{% include group-by-array.html collection=site.members field='type' %}
+
+<div class="archive">
+  {% for member_type in group_names %}
+    <h2 class="archive__subtitle" style="text-transform: capitalize; border-bottom: 2px solid #ddd; padding-bottom: 10px; margin-top: 40px;">
+      {{ member_type }}
+    </h2>
+    
+    {% assign members = group_items[forloop.index0] %}
+    
+    <div style="display: flex; flex-direction: column; gap: 20px; margin-top: 20px;">
+      {% for member in members %}
+        
+        <div style="display: flex; align-items: flex-start; gap: 20px; padding: 15px; border-bottom: 1px dashed #eee;">
+          
+          <div style="flex-shrink: 0;">
+            {% if member.avatar %}
+              <img src="{{ site.baseurl }}{{ member.avatar }}" alt="{{ member.title }}" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;">
+            {% else %}
+              <img src="{{ site.baseurl }}/images/bio-photo.jpg" alt="Default Avatar" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;">
+            {% endif %}
+          </div>
+          
+          <div style="flex-grow: 1;">
+            <h3 class="archive__item-title" style="margin: 0 0 5px 0; font-size: 1.2em;">
+              {{ member.title }}
+            </h3>
+            
+            <p style="font-size: 0.95em; color: #666; font-weight: bold; margin: 0 0 8px 0;">
+              {{ member.position }}
+            </p>
+            
+            <div class="archive__item-excerpt" style="font-size: 0.95em; line-height: 1.5; margin: 0;">
+              {{ member.content }}
+            </div>
+          </div>
+          
+        </div>
+        
+      {% endfor %}
+    </div>
+  {% endfor %}
 </div>
-<hr>
-
-<div style="height: 100px;">
-<img src="/images/500x300.jpg" alt="Tjardo Maarseveen" class="biopic">
-<h2>Tjardo Maarseveen</h2>
-PhD Candidate, bioinformatician, expert in the field of Electronic Health Records and free-text analysis
-<br>
-<a href="https://www.linkedin.com/in/tjardo-maarseveen/"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-<a href="https://github.com/levrex"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a>
-<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Maarseveen+T%5BAuthor%5D&sort=date"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a>
-<a href="https://orcid.org/0000-0003-1701-1040"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
-</div>
-<hr>
-
-
-<h3>Alumni</h3>
-
-<div style="height: 100px;">
-<img src="/images/500x300.png" alt="Nick Bos" class="biopic">
-<h2>Nick Bos</h2>
-Student, bioinformatician, working on a web application to assign and visualize JIPs
-<br>
-<a href="https://www.linkedin.com/in/nick-bos-189b8798/"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
-<a href="https://github.com/4E-69-63-6B-20-42-6F-73/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a>
-</div>
-<hr>

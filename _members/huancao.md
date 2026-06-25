@@ -1,7 +1,7 @@
 ---
 title: "Huan Cao"
 position: "Associate Professor / Principal Investigator"
-type: "PI"
+type: "Faculty"
 avatar: "/images/huancao.png"
 ---
 

@@ -10,3 +10,10 @@ with single-degree-of-freedom encoding. <br/><img src='/images/multi-DOF.png'>"
 collection: research
 ---
 
+Photons provide a unique quantum platform not only because of their flying nature, but also because 
+they possess rich internal and external degrees of freedom. A fully fledged photonic quantum machine 
+requires the ability to harness and coherently control path, polarization, frequency, time-bin, orbital 
+angular momentum, and transverse spatial modes. This research direction aims to build flexible photonic 
+processors in which quantum information can be encoded, converted, routed, and measured across multiple 
+degrees of freedom, expanding the information capacity and enabling operations beyond what is possible 
+with single-degree-of-freedom encoding.

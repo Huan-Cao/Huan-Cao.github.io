@@ -6,7 +6,7 @@ photons with well-controlled spectral and temporal properties. Based on that, we
 and single material qubits or quantum emitters, including single atoms and quantum dots, mediated by carefully designed optical 
 cavities and photonic structures. These light–matter interfaces can 
 enable deterministic quantum gates, quantum memories, photon–matter entanglement, and scalable hybrid architectures for 
-distributed quantum information processing. <br/><img src='/images/500x300.png'>"
+distributed quantum information processing. <br/><img src='/images/narrowband.png'>"
 collection: research
 ---
 

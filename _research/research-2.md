@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Multi-degree-of-freedom Photonic Quantum Control"
 excerpt: "Photons provide a unique quantum platform not only because of their flying nature, but also because 
@@ -8,6 +9,14 @@ processors in which quantum information can be encoded, converted, routed, and m
 degrees of freedom, expanding the information capacity and enabling operations beyond what is possible 
 with single-degree-of-freedom encoding. <br/><img src='/images/multi-DOF.png'>"
 collection: research
+---
+-->
+
+---
+title: "Multi-degree-of-freedom Photonic Quantum Control"
+collection: research
+header:
+  teaser: "multi-DOF.png'"
 ---
 
 Photons provide a unique quantum platform not only because of their flying nature, but also because 

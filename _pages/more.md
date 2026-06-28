@@ -12,7 +12,8 @@ author_profile: true
 ## Professional Service
 * ### Journal Reviews:  
   Physical Review Letters  
-  Light Science & Applications  
+  Light Science & Applications
+  Physical Review Applied
   Physical Review Research  
   Physical Review A  
   Optics Express  

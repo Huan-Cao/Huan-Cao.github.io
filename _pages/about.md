@@ -11,7 +11,7 @@ redirect_from:
 Huan Cao (曹洹) is currently an Associate Professor (tenure-track) at Sun Yat-sen University, Guangzhou. Before joining SYSU, I was a Postdoctoral Researcher at the University of Vienna, working with [Prof. Philip Walther](https://walther.univie.ac.at/people/philip-walther/). I received my PhD in the Department of Physics from the University of Science and Technology of China (USTC). My research interests include quantum optics and the foundations of quantum mechanics, with an emphasis on photonic quantum technologies and their applications in quantum information science.
 
 
-Opennings
+Openings
 ======
 We are currently seeking highly motivated **Postdocs, Ph.D. students, Master's students, and Research Assistants** to join our team at Sun Yat-sen University. 
 

@@ -15,7 +15,7 @@ Warmly welcome you to join us!
 ## Postdocs & Ph.D. Students
 We have multiple openings for postdocs and doctoral students who are excited to dive into quantum information science. 
 Applicants with backgrounds and experiences provided below are preferred:
-* Quantum Optics, Quantum information & quantum computing
+* Quantum optics, quantum information & quantum computing
 * Integrated photonics (SiN, lithium niobate, etc)
 * Continuous-variable (CV) photonic systems, optical squeezer, discrete-variable (DV) photonic systems.
 * Hands-on optical experiment skills

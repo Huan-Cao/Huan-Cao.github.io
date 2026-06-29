@@ -13,7 +13,7 @@ We are constantly looking for highly motivated, talented, and passionate researc
 Warmly welcome you to join us!
 
 ## Postdocs & Ph.D. Students
-We have multiple immediate openings for postdocs and doctoral students who are eager to tackle frontline challenges in quantum science. 
+We have multiple immediate openings for postdocs and doctoral students who share a passion for diving into quantum information science. 
 Applicants with backgrounds and experiences provided below are preferred:
 * Quantum Optics, Quantum information & quantum computing
 * Integrated photonics (SiN, lithium niobate, etc)
@@ -26,7 +26,7 @@ We welcome master's applicants and full-time research assistants to join our tea
 Optical Engineering or related disciplines, with a solid background in Optics and Quantum Mechanics coursework are welcome. 
 A genuine passion for scientific research and a strong willingness to learn experimental techniques are highly valued.
 
-Feel free to drop me an email at caoh28@mail.sysu.edu.cn with your **latest Curriculum Vitae (CV)**. For postdoc and Ph.D. applicants, to help us get to know you better, we would highly appreciate a brief description of:
+Feel free to drop me an email at caoh28@mail.sysu.edu.cn with your **latest Curriculum Vitae (CV)**. For postdoc and Ph.D. applicants, to help us get to know you better, we would highly appreciate if you have a brief description of:
 * Your previous research experience and career goals.
 * Any potential research ideas that combine your unique expertise with our ongoing adventure.
 

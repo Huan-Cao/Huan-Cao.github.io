@@ -1,8 +1,8 @@
 ---
-title: "San Zhang"
+title: "Position Available"
 position: "Ph.D. Student"
 type: "Graduate Students"
 avatar: "/images/500x300.png"
 ---
 
-This could be you.
+**Our team is growing!** — [Apply Now](./openings)

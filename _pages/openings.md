@@ -5,7 +5,7 @@ layout: archive
 author_profile: false
 ---
 
-Our laboratory is a collaborative, forward-thinking, and energetic research group at Sun Yat-sen University. 
+Our laboratory is a collaborative, inclusive, and energetic research group at Sun Yat-sen University. 
 We turn scientific curiosity into an adventure in quantum information science, dedicated to chasing both 
 fundamental physics and advancing photonic quantum technology.
 

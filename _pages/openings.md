@@ -17,18 +17,16 @@ We have multiple immediate openings for postdocs and doctoral students who are e
 Applicants with backgrounds and experiences provided below are preferred:
 * Quantum Optics, Quantum information & quantum computing
 * Integrated photonics (SiN, lithium niobate, etc)
-* continuous-variable (CV) photonic systems, optical squeezer, discrete-variable (DV) photonic systems.
+* Continuous-variable (CV) photonic systems, optical squeezer, discrete-variable (DV) photonic systems.
 * Hands-on optical experiment skills
-* Scientific data analysis and experimental devices control by Python, MATLAB, or FPGA
+* Scientific data analysis and experimental device control by Python, MATLAB, or FPGA
 
 ## Master's Students & Research Assistants
 We welcome master's applicants and full-time research assistants to join our team. Students in Physics, Optics, 
 Optical Engineering or related disciplines, with a solid background in Optics and Quantum Mechanics coursework are welcome. 
 A genuine passion for scientific research and a strong willingness to learn experimental techniques are highly valued.
 
+**Feel Free to contact me
 
 
-
-
-[Hefei Unitary Quantum Technology Co., Ltd. (合肥幺正量子科技有限公司)](https://www.unitqc.com/), Scientific Advisor, 2023
   

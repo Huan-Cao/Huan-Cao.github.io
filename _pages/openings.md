@@ -24,7 +24,7 @@ Applicants with backgrounds and experiences provided below are preferred:
 ## Master's Students & Research Assistants
 We welcome master's applicants and full-time research assistants to join our team. Students in Physics, Optics, 
 Optical Engineering or related disciplines, with a solid background in Optics and Quantum Mechanics coursework are welcome. 
-A genuine passion for scientific research and a strong willingness to learn experimental techniques are highly valued.
+A genuine passion for scientific research and a strong motivation to learn experimental techniques are highly valued.
 
 Feel free to drop me an email at caoh28@mail.sysu.edu.cn with your **latest Curriculum Vitae (CV)**. For postdoc and Ph.D. applicants, to help us get to know you better, we would highly appreciate if you have a brief description of:
 * Your previous research experience and career goals.

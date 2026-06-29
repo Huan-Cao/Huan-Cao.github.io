@@ -5,4 +5,4 @@ type: "Graduate Students"
 avatar: "/images/500x300.png"
 ---
 
-**Position Available**
+**Position Available** — [Apply Now](./more)

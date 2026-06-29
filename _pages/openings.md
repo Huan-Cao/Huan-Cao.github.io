@@ -13,7 +13,7 @@ We are constantly looking for highly motivated, talented, and passionate researc
 Warmly welcome you to join us!
 
 ## Postdocs & Ph.D. Students
-We have multiple immediate openings for postdocs and doctoral students who share a passion for diving into quantum information science. 
+We have multiple openings for postdocs and doctoral students who are excited to dive into quantum information science. 
 Applicants with backgrounds and experiences provided below are preferred:
 * Quantum Optics, Quantum information & quantum computing
 * Integrated photonics (SiN, lithium niobate, etc)

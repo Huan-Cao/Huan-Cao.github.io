@@ -5,4 +5,4 @@ type: "Graduate Students"
 avatar: "/images/500x300.png"
 ---
 
-**Our team is growing!** — [Apply Now](./openings)
+**Our team is growing!** — [Apply Now](./more)

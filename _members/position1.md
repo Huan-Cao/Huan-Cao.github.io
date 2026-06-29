@@ -1,6 +1,6 @@
 ---
 title: "Position Available"
-position: "Ph.D. Student"
+position: "Ph.D./Master's Student, Research Assistants"
 type: "Graduate Students"
 avatar: "/images/500x300.png"
 ---

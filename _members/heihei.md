@@ -1,6 +1,6 @@
 ---
 title: "heihei"
-position: "Ph.D. Student"
+position: "Master's Student"
 type: "Graduate Students"
 avatar: "/images/500x300.png"
 ---

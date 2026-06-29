@@ -26,7 +26,9 @@ We welcome master's applicants and full-time research assistants to join our tea
 Optical Engineering or related disciplines, with a solid background in Optics and Quantum Mechanics coursework are welcome. 
 A genuine passion for scientific research and a strong willingness to learn experimental techniques are highly valued.
 
-**Feel Free to drop me an email at caoh28@mail.sysu.edu.cn with your **latest Curriculum Vitae (CV)**. For Postdocs & Ph.D. applicants, to help us get to know you better, we highly appreciate a brief description of your previous research experience and career goals; Any potential research ideas that combine your unique expertise with our ongoing adventure.
+Feel free to drop me an email at caoh28@mail.sysu.edu.cn with your latest Curriculum Vitae (CV). For postdoc and Ph.D. applicants, to help us get to know you better, we would highly appreciate a brief description of:
+*Your previous research experience and career goals.
+*Any potential research ideas that combine your unique expertise with our ongoing adventure.
 
 ## Undergraduates
 We enthusiastically welcome undergraduate students to actively participate in our laboratory's research projects. Drop me an email with your transcript attached. Let us know your interests, and we will find the perfect project to kick off your research journey.

@@ -9,7 +9,7 @@ Our laboratory is a collaborative, inclusive, and energetic research group at Su
 We turn scientific curiosity into an adventure in quantum information science, dedicated to chasing both 
 fundamental physics and advancing photonic quantum technology.
 
-We are constantly looking for highly motivated, talented, and passionate researchers to join our journey at all levels.
+We are constantly looking for highly motivated, talented, and passionate researchers to join our team at all levels.
 Warmly welcome you to join us!
 
 ## Postdocs & Ph.D. Students

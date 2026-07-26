@@ -5,4 +5,4 @@ type: "Faculty"
 avatar: "/images/huancao.png"
 ---
 
-Experimentalist in quantum information, focusing on multi-photon entanglement in photonic systems, discrete variable encoding, and micro-nano integrated quantum optics.
+Experimentalist in quantum information, focusing on photonic quantum technologies, including quantum computing, networks, and sensing, along with fundamental research in quantum physics.

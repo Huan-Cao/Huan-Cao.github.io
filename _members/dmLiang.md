@@ -2,7 +2,7 @@
 title: "Dongming Liang"
 position: "Master's Student"
 type: "Graduate Students"
-avatar: "/images/500x300.png"
+avatar: "/images/dmliang.jpg"
 ---
 
-**Position Available**
+On-chip multi-photon quantum information
